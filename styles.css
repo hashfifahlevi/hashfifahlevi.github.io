@@ -33,7 +33,7 @@ nav ul li{
 nav ul li a{
     color: grey;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.25rem;
     position: relative;
     scroll-behavior: smooth;
 }
@@ -79,13 +79,13 @@ nav ul li a:hover::after{
 
 .header-text h1{
     position: absolute;
-    font-size: 48px;
+    font-size: 3rem; /*48px*/
     margin-top: 8%;
 }
 
 .header-text p{
     position: relative;
-    font-size: 22px;
+    font-size: 1.375rem; /*22px*/
     top: 0;
     right: 0;
 }
@@ -115,7 +115,7 @@ nav ul li a:hover::after{
 }
 
 .subtitle{
-    font-size: 42px;
+    font-size: 2.625rem; /*42px*/
 }
 
 .tab-titles{
@@ -126,7 +126,7 @@ nav ul li a:hover::after{
 .tab-links{
     color: grey;
     margin-right: 40px;
-    font-size: 20px;
+    font-size: 1.25rem; /*20px*/
     font-weight: 600;
     cursor: pointer;
     position: relative;
@@ -238,7 +238,7 @@ nav ul li a:hover::after{
 }
 
 .con-title{
-    font-size: 48px;
+    font-size: 3rem; /*48px*/
 }
 
 .contact-left p{
@@ -248,7 +248,7 @@ nav ul li a:hover::after{
 .contact-left p i{
     color: #7df3e7;
     margin-right: 12px;
-    font-size: 24px;
+    font-size: 1.5rem; /*24px*/
 }
 
 .contact-right{
@@ -269,7 +269,7 @@ form input, form textarea{
     padding: 16px;
     margin: 16px 0;
     color: #fff;
-    font-size: 18px;
+    font-size: 1.125rem; /*18px*/
 }
 
 .social-icons{
@@ -278,7 +278,7 @@ form input, form textarea{
 
 .social-icons a{
     text-decoration: none;
-    font-size: 32px;
+    font-size: 2rem; /*32px*/
     margin-right: 16px;
     color: lightgrey;
     display: inline-block;
@@ -299,7 +299,7 @@ form input, form textarea{
   cursor: pointer;
   display: inline-block;
   font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,"Helvetica Neue",sans-serif;
-  font-size: 16px;
+  font-size: 1rem; /*16px*/
   font-weight: 600;
   line-height: 20px;
   margin: 0;
